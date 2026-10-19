@@ -1,10 +1,10 @@
-## Social Media Engagement Analytics Using Python
+# Social Media Engagement Analytics Using Python
 
-# Overview
+## Overview
 
 This project explores social media engagement data to understand content performance, audience interactions, and engagement patterns across different categories, countries, demographics, and devices.
 
-# Tools & Libraries
+## Tools & Libraries
 
 Python
 
@@ -14,7 +14,7 @@ Matplotlib and Seaborn
 
 Plotly
 
-# Work Performed
+## Work Performed
 
 Inspected dataset structure, data types, missing values, and duplicates.
 
@@ -26,7 +26,7 @@ Performed exploratory data analysis using descriptive statistics, correlations, 
 
 Developed statistical and interactive visualizations to examine engagement trends.
 
-# Key Findings
+## Key Findings
 
 Video posts recorded the highest average engagement score among post types.
 
@@ -38,10 +38,10 @@ Verified accounts had a higher average engagement rate, while mobile users recor
 
 Negative-sentiment posts showed the highest average engagement score, highlighting that high engagement does not necessarily indicate positive sentiment.
 
-# Conclusion
+## Conclusion
 
 The analysis identifies differences in engagement across content types, categories, audiences, and devices. These findings can support data-informed content planning, while further investigation is needed to understand the causes of engagement patterns.
 
-# Note
+## Note
 
 The dataset contains posting dates but no time-of-day information, so the best hour to publish could not be determined.
